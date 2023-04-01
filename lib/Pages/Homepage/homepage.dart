@@ -64,7 +64,7 @@ class _HomePageState extends State<HomePage> {
                                     fontWeight: FontWeight.bold),
                               ),
                               Text(
-                                'Healthify Me',
+                                'Alpha Fit',
                                 style: TextStyle(
                                     color: Colors.white,
                                     fontSize: 20,
@@ -79,7 +79,7 @@ class _HomePageState extends State<HomePage> {
                       height: 50,
                     ),
                     Text(
-                      'What brings you to Healthify Me?',
+                      'What brings you to AlphaFit?',
                       style: TextStyle(
                           color: Colors.white,
                           fontSize: 17,
