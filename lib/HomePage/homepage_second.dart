@@ -74,7 +74,7 @@ class _Homepage_SecondState extends State<Homepage_Second> {
         image_color: Colors.white),
     CardItem(
         iconData: Icons.tv,
-        title: 'Healthify Tv',
+        title: 'Alpha News',
         color: Colors.yellow,
         image_color: Colors.white),
     CardItem(
@@ -110,7 +110,7 @@ class _Homepage_SecondState extends State<Homepage_Second> {
     PostCardItem(
         iconData_two: Icons.tv,
         color_two: Colors.yellow,
-        title_two: 'Healthify Tv',
+        title_two: 'Alpha News',
         heading: AppString.SMALL_DIET,
         image_add: 'assets/images/fitness.png',
         likes: '135 likes',
@@ -126,7 +126,7 @@ class _Homepage_SecondState extends State<Homepage_Second> {
     PostCardItem(
         iconData_two: Icons.tv,
         color_two: Colors.yellow,
-        title_two: 'Healthify Tv',
+        title_two: 'Alpha News',
         heading: AppString.GETTING_FIT,
         image_add: 'assets/images/lifest.jpg',
         likes: '135 likes',
