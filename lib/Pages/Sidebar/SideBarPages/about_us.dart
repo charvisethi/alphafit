@@ -51,7 +51,7 @@ class _About_UsPageState extends State<About_UsPage> {
                 ),
               ),
               Text(
-                'Healthify Me',
+                'Alpha Fit',
                 style: TextStyle(
                     color: Colors.black,
                     fontSize: 25,
@@ -61,12 +61,12 @@ class _About_UsPageState extends State<About_UsPage> {
           ),
           Center(
               child: Text(
-            'Meet The Change.',
+            'Embrace The Change.',
             style: TextStyle(fontWeight: FontWeight.bold, fontSize: 40),
           )),
           Center(
               child: Text(
-            'Meet HealthifyMe.',
+            'Meet Alphafit.',
             style: TextStyle(fontWeight: FontWeight.bold, fontSize: 40),
           )),
           SizedBox(
@@ -74,12 +74,12 @@ class _About_UsPageState extends State<About_UsPage> {
           ),
           Center(
               child: Text(
-            'With the all-new HealthifyMe,kickstart your',
+            'With the all-new Alpha Fit,kickstart your',
             style: TextStyle(fontWeight: FontWeight.w500, fontSize: 12),
           )),
           Center(
               child: Text(
-            'journey towards an all new you.',
+            'journey towards an all new Alpha you.',
             style: TextStyle(fontWeight: FontWeight.w500, fontSize: 12),
           )),
           Center(
