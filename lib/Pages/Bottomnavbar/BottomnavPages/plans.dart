@@ -200,7 +200,7 @@ class _Plans_PageState extends State<Plans_Page> {
                               Padding(
                                 padding: const EdgeInsets.all(8.0),
                                 child: Text(
-                                  'Ria-Your AI COach & Assistant ',
+                                  'Natasha-Your AI Coach & Assistant ',
                                   style: TextStyle(
                                     fontSize: 13,
                                     fontWeight: FontWeight.bold,
