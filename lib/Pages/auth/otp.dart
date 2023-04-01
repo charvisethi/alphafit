@@ -105,7 +105,7 @@ class _OtpPageState extends State<OtpPage> {
                   Padding(
                     padding: const EdgeInsets.all(8.0),
                     child: Text(
-                      '+628217410084',
+                      '+91859568xxxx',
                       style: TextStyle(
                           color: Colors.black87,
                           letterSpacing: 2,
