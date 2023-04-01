@@ -36,13 +36,13 @@ class _Workout_PlanState extends State<Workout_Plan> {
         text2: '199 per month',
         text3: 'Total-₹2,399',
         imgsrc: 'assets/images/pizza.png',
-        subtitle: 'A biryani is more expensive'),
+        subtitle: 'A pizza is more expensive'),
     CardItem(
         text1: '12 Months',
         text2: '199 per month',
         text3: 'Total-₹2,399',
         imgsrc: 'assets/images/tea.png',
-        subtitle: 'A biryani is more expensive'),
+        subtitle: 'A tea-pack is more expensive'),
   ];
   @override
   Widget build(BuildContext context) {
