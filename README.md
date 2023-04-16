@@ -1,6 +1,6 @@
 Alpha fit
 (Unleash your inner alpha,get fit with alpha fit)
-
+A demo of the working application is given below
 
 
 
